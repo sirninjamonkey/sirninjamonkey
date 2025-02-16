@@ -1,5 +1,5 @@
 ## Sirninjamonkey
-he/hin
+he/him
 Currently working on multiple Cosmic Reach related projects
 <!--
 **sirninjamonkey/sirninjamonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
